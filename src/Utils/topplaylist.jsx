@@ -10,7 +10,7 @@ export const topHindiPlaylist = [
     image:
       "https://c.saavncdn.com/editorial/BestOfRomanceHindi_20230329050231.jpg",
     perma_url:
-      "https://www.jiosaavn.com/featured/best-of-romance---hindi/SBKnUgjNeMIwkg5tVhI3fw__",
+      "https://open.spotify.com/playlist/37i9dQZF1DWYN9NBqvY7Tx?si=4xfpkvmpRr2z93mTVWsJjQ",
   },
   {
     id: "107724265",
